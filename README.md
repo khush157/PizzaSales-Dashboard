@@ -28,7 +28,7 @@ Performed in *SQL*
 
 The original dataset was cleaned using SQL:
 - *Standardizing column names*
-- *Fixing data types* (`sales` as `NUMERIC`, dates as `TEXT`)
+- *Fixing data types* 
 - *Removing duplicate rows* with inconsistent pricing
 - *Filling missing values* 
 - *Normalizing decimal places* for monetary values
